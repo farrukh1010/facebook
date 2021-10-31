@@ -34,7 +34,7 @@
 .nav-input{
     display: flex;
     align-items: center;
-    background-color:white ;
+    background-color:#eff2f5 ;
     padding: 10px;
     margin-left: 10px;
     border-radius: 999px;
@@ -157,18 +157,19 @@
     color:blue;
 }
 body{
-background-color: white;
+background-color: #eff2f5;
 }
 .post-input{
     display: flex;
 align-items: center;
-background-color:white ;
+background-color: #eff2f5 ;
 padding: 10px;
 margin-left: 3px;
 margin-right: 3px;
 border-radius: 999px;
 width: 100px;
 flex:1;
+border: none;
 }
 .new-post{
     display: flex;
@@ -250,7 +251,7 @@ flex:1;
 }
 .post-bottom p{
     font-size: xx-large;
-    color: red;
+    color: green;
 
 }
 .post-bottom{
