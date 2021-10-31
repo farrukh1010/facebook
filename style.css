@@ -297,3 +297,18 @@ flex:1;
     font-size: xx-large;
     color:blue;
 }
+@media (max-width:768px){
+    .left-row{
+        display: none;
+    }
+}
+@media (max-width:768px){
+    .nav-mid{
+        display: none;
+    }
+}
+@media (max-width:768px){
+    .nav-right{
+        display: none;
+    }
+}
